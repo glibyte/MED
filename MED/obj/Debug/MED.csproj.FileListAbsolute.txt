@@ -8,3 +8,13 @@ C:\Users\Alvercix\source\repos\MED\MED\obj\Debug\MED.csproj.GenerateResource.cac
 C:\Users\Alvercix\source\repos\MED\MED\obj\Debug\MED.csproj.CoreCompileInputs.cache
 C:\Users\Alvercix\source\repos\MED\MED\obj\Debug\MED.exe
 C:\Users\Alvercix\source\repos\MED\MED\obj\Debug\MED.pdb
+C:\Users\Alvercix\Documents\GitHub\MED\MED\bin\Debug\MED.exe.config
+C:\Users\Alvercix\Documents\GitHub\MED\MED\bin\Debug\MED.exe
+C:\Users\Alvercix\Documents\GitHub\MED\MED\bin\Debug\MED.pdb
+C:\Users\Alvercix\Documents\GitHub\MED\MED\obj\Debug\MED.csprojAssemblyReference.cache
+C:\Users\Alvercix\Documents\GitHub\MED\MED\obj\Debug\MED.Form1.resources
+C:\Users\Alvercix\Documents\GitHub\MED\MED\obj\Debug\MED.Properties.Resources.resources
+C:\Users\Alvercix\Documents\GitHub\MED\MED\obj\Debug\MED.csproj.GenerateResource.cache
+C:\Users\Alvercix\Documents\GitHub\MED\MED\obj\Debug\MED.csproj.CoreCompileInputs.cache
+C:\Users\Alvercix\Documents\GitHub\MED\MED\obj\Debug\MED.exe
+C:\Users\Alvercix\Documents\GitHub\MED\MED\obj\Debug\MED.pdb
